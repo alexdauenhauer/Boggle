@@ -1,7 +1,7 @@
 # Boggle
 a command line version of the game boggle
 
-# Operation:
+### Operation:
 
 The player will run the game from the command line. Once the program is 
 executed, the user will enter into the game and enter their player name and 
@@ -15,7 +15,7 @@ that were legal, and thus scored points. The player will then be asked if they
 want to play again and if they do, then they will be shown a new board to play 
 on. If not, the program will end.
 
-# Class structure:
+### Class structure:
 
 - The first class is the Board class. The Board sets the layout of the letters 
 that the user will use to find words. The traditional game is tray with cube 
@@ -56,7 +56,7 @@ There is an end_game() method which applies the rules to the Player's word
 list and then scores the word list, and then ends the game and exits the 
 program.
 
-# Testing this project:
+### Testing this project:
 
 You should test this project by playing it from the command line! However, I 
 also included a cleaned up version of my testing notebook titled 
